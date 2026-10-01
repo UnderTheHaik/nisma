@@ -950,3 +950,6 @@ textarea {
         object-position: center bottom;
     }
 }
+.checkout-captures{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:30px 0}.checkout-captures figure{margin:0}.checkout-captures img{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:top;border:1px solid #deded2}.checkout-captures figcaption{font-size:13px;line-height:1.6;margin-top:10px;color:#596657}@media(max-width:700px){.checkout-captures{grid-template-columns:1fr}}
+
+.checkout-captures figure:nth-child(2) img{object-position:bottom}

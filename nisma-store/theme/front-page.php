@@ -2,7 +2,7 @@
     wc_get_page_permalink("shop"),
 ); ?>">Explore the collection <span aria-hidden="true">↗</span></a><p class="hero-footnote">SCARVES · STATIONERY · EVERYDAY RITUALS</p></div><div class="hero-image"><img fetchpriority="high" width="1200" height="1500" src="<?php echo esc_url(
     get_template_directory_uri() . "/images/scarf.webp",
-); ?>" alt="A softly folded neutral scarf resting on a round wooden table"><a href="<?php echo esc_url(
+); ?>" alt="A woman wearing a draped beige scarf — illustrative styling photograph"><a href="<?php echo esc_url(
     home_url("/?product_cat=scarves"),
 ); ?>">Soft layers, simple pleasures <span aria-hidden="true">↗</span></a></div></section><div class="benefits"><span>UAE delivery, all seven emirates</span><span>Prices in AED</span><span>Guest checkout available</span></div><section class="section"><div class="section-heading"><div><span class="eyebrow">A considered collection</span><h2>Find your everyday.</h2></div><a href="<?php echo esc_url(
     nisma_url("categories"),

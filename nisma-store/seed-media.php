@@ -1,4 +1,5 @@
 <?php
+// Preserve the actual local checkout screenshots on setup refreshes.
 if (PHP_SAPI !== "cli") {
     exit();
 }
@@ -58,3 +59,5 @@ foreach ($credits as $credit) {
         }
     }
 }
+
+require __DIR__ . '/portfolio-evidence.php';

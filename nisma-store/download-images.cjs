@@ -3,9 +3,9 @@ const sharp = require("../node_modules/sharp");
 const photos = [
   [
     "scarf",
-    5475167,
-    "Folded scarf on a round table",
-    "https://www.pexels.com/photo/folded-scarf-on-a-round-table-near-white-wall-5475167/",
+    3038031,
+    "Woman wearing a beige scarf — Arif Isomoto",
+    "https://www.pexels.com/photo/woman-wearing-beige-scarf-3038031/",
   ],
   [
     "rose",
